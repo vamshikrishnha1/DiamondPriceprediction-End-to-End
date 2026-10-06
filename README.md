@@ -123,7 +123,7 @@ Start the server
 
 ## Support
 
-For support, email vbodige750@gmail.com or contact.
+For support, email vamshikrishna.bodige@outlook.com.
 
 
 ## 🔗 Links
